@@ -1,5 +1,6 @@
+
 #main-navbar {
-  background-color: lightgreen; 
+  background-color: blue;
   overflow: hidden;
 }
 
@@ -42,8 +43,8 @@
 
 #sidebar {
   position: fixed;
-  right: 0%;
-  background-color: darkgreen; 
+  right:0%;
+  background-color: red;
   height: 100%;
   width: 20%;
 }
@@ -63,9 +64,4 @@
 
 #sidebar ul li a:hover {
   background-color: #000;
-}
-
-/* General background color */
-body {
-  background-color: #f0fff0; 
 }
